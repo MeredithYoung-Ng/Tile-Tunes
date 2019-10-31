@@ -1,6 +1,6 @@
 # Tile Tunes
 
-Tiles Tunes was the name of our robot for a semester long INFO 4320 Rapid Prototyping course project with [Melissa Avila](https://www.linkedin.com/in/melissa-avila-05606799) and [Alan Lee](https://www.linkedin.com/in/alan-m-lee). The robot freely tracks lines and interepret colored tiles along the drawn track as notes.
+Tile Tunes was the name of our robot for a semester long INFO 4320 Rapid Prototyping course project with [Melissa Avila](https://www.linkedin.com/in/melissa-avila-05606799) and [Alan Lee](https://www.linkedin.com/in/alan-m-lee). The robot freely tracks lines and interepret colored tiles along the drawn track as notes.
 
 Additional details can be found in <writeup.pdf>.
 
